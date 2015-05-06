@@ -1,10 +1,10 @@
 <material>
-  <engraveColor>#000000</engraveColor>
+  <engraveColor>#ffffff</engraveColor>
   <cutColor>#ff0000</cutColor>
-  <color>#ffffff</color>
-  <name>Papier</name>
+  <color>#9999ff</color>
+  <name>Acrylic</name>
   <materialThicknesses>
     <float>0.0</float>
-    <float>0.4</float>
+    <float>3.0</float>
   </materialThicknesses>
 </material>
