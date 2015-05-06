@@ -3,14 +3,10 @@
   <useFilenamesForJobs>false</useFilenamesForJobs>
   <labName>Fablab Paderborn</labName>
   <windowBounds>
-    <x>0</x>
-    <y>23</y>
-    <width>1674</width>
-    <height>933</height>
   </windowBounds>
   <useThicknessAsFocusOffset>false</useThicknessAsFocusOffset>
   <recentFiles/>
-  <lastMaterial>Papier</lastMaterial>
+  <lastMaterial>Acrylic</lastMaterial>
   <lastLaserDevice>Fablab Paderborn HPC LS3020</lastLaserDevice>
   <availableImporters/>
   <editSettingsBeforeExecuting>false</editSettingsBeforeExecuting>
