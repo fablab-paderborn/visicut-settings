@@ -1,9 +1,9 @@
 <laserDevice>
   <jobSentText>Job was sent as &apos;$jobname&apos;
 Please:
+-Make sure the water cooling is running
 -Close the lid
--Turn on the Ventilation
--And press &apos;start&apos; on the Lasercutter $name</jobSentText>
+-Turn on the Ventilation</jobSentText>
   <jobPrefix>visicut </jobPrefix>
   <laserCutter class="com.t_oster.liblasercut.drivers.LaosCutter">
     <supportsFrequency>false</supportsFrequency>
