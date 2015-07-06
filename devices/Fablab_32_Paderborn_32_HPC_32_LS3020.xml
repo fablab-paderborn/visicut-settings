@@ -25,6 +25,7 @@ Please:
     <bedWidth>300.0</bedWidth>
     <bedHeight>210.0</bedHeight>
   </laserCutter>
+  <thumbnailPath>Fablab_32_Paderborn_32_HPC_32_LS3020.png</thumbnailPath>
   <description>HPC LS3020</description>
   <name>Fablab Paderborn HPC LS3020</name>
 </laserDevice>
