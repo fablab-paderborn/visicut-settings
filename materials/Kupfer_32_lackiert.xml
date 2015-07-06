@@ -1,0 +1,10 @@
+<material>
+  <description>Kupfer + 3 Lagen Sprühlack</description>
+  <engraveColor>#ff7c00</engraveColor>
+  <cutColor>#ff0004</cutColor>
+  <color>#010101</color>
+  <name>Kupfer lackiert</name>
+  <materialThicknesses>
+    <float>0.02</float>
+  </materialThicknesses>
+</material>
